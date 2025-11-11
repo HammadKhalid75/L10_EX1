@@ -33,7 +33,7 @@ All preferences are **saved across app restarts**.
 
 ## Screenshots
 
-![Add Item](Screenshot_1.png) | | ![Add Item](Screenshot_2.png)
+![Add Item](Screenshot_3.png) | | ![Add Item](Screenshot_4.png)
 
 ---
 
